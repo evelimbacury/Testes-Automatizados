@@ -2,13 +2,11 @@
 
 Este repositório contém o trabalho prático sobre Plano de Testes e a prática de testes automatizados com a ferramenta Cypress, realizado na disciplina **Testes, Validação e Verificação de Software** da **Universidade Federal do Amazonas**.
 
----
 
 ## 📋 Introdução
 
 O objetivo deste trabalho é construir um plano de testes para a aplicação web **Rooms Ensalamentos** e executar esses testes utilizando a ferramenta **Cypress**.
 
----
 
 ## ⚙️ Requisitos
 
@@ -17,7 +15,6 @@ Antes de começar, certifique-se de que o ambiente possui os seguintes requisito
 - **Python** (versão 3 ou superior)
 - **Node.js** (para executar o Cypress)
 
----
 
 ## 🚀 Instalação e Execução
 
@@ -66,7 +63,6 @@ Siga as etapas abaixo para configurar o ambiente e realizar os testes.
    ```
 Após iniciar o servidor, clique no link fornecido para acessar a aplicação web.
 
----
 
 ## 2. Configuração dos Testes com Cypress
 1. **Acesse a pasta de testes:**
